@@ -1,3 +1,4 @@
+#define   CONFIG_ZMK_RGB_UNDERGLOW_AUTO_OFF_IDLE n
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/bt.h>
